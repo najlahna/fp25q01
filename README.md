@@ -2,4 +2,4 @@
 Class Q. Group 1
 # Team Members:
 1. 5026241049, Najla Hanasyifa
-2. 
+2. 5026461209, James Kalvale
